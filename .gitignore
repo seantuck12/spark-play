@@ -1,0 +1,6 @@
+/env/
+/.idea/
+/.empty/
+/.ipynb_checkpoints/
+/spark-warehouse/
+A-Gentle-Introduction-to-Apache-Spark.pdf
